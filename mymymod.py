@@ -1,6 +1,4 @@
 
-print("hello hanshin\n")
-
 def add(a,b):
     return a+b
 
@@ -10,3 +8,6 @@ def mul(a,b):
     return a*b
 
 print(mul(3,3))
+
+def sqr(a,b):
+    return a**b
