@@ -11,3 +11,8 @@ print(mul(3,3))
 
 def sqr(a,b):
     return a**b
+
+def sub(a,b):
+    return a-b
+
+
